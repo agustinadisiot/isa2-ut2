@@ -5,8 +5,8 @@ on:
   pull_request:
     branches: [ main ]
     paths:
-    - '**.cs'
-    - '**.csproj'
+    - 'Agil/**.cs'
+    - 'Agil/**.csproj'
 
 env:
   DOTNET_VERSION: '5.0.301' # The .NET SDK version to use
@@ -18,7 +18,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macOS-latest]
+        os: [ubuntu-latest]
 
     steps:
     - uses: actions/checkout@v2
