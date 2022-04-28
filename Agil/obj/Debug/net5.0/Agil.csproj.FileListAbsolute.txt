@@ -1,0 +1,16 @@
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.exe
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.deps.json
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.runtimeconfig.json
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.runtimeconfig.dev.json
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.dll
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\ref\Agil.dll
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\bin\Debug\net5.0\Agil.pdb
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.csproj.AssemblyReference.cache
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.AssemblyInfoInputs.cache
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.AssemblyInfo.cs
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.csproj.CoreCompileInputs.cache
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.dll
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\ref\Agil.dll
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.pdb
+C:\Users\Agustina\Desktop\ort\Semestre7\Agil\Agil\obj\Debug\net5.0\Agil.genruntimeconfig.cache
