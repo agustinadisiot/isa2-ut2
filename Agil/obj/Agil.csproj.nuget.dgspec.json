@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\Agil\\Agil.csproj": {}
+    "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\isa2-ut2\\Agil\\Agil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\Agil\\Agil.csproj": {
+    "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\isa2-ut2\\Agil\\Agil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\Agil\\Agil.csproj",
+        "projectUniqueName": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\isa2-ut2\\Agil\\Agil.csproj",
         "projectName": "Agil",
-        "projectPath": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\Agil\\Agil.csproj",
+        "projectPath": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\isa2-ut2\\Agil\\Agil.csproj",
         "packagesPath": "C:\\Users\\Agustina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\Agil\\obj\\",
+        "outputPath": "C:\\Users\\Agustina\\Desktop\\ort\\Semestre7\\Agil\\isa2-ut2\\Agil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
