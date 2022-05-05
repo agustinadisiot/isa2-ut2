@@ -18,9 +18,6 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet restore Agil.csproj
-      working-directory: ./Agil/
+      run: dotnet restore ./ut2/ut2/ut2.csproj
     - name: Build
-      run: dotnet build --no-restore Agil.sln
-    - name: Test
-      run: dotnet test --no-build --verbosity normal ./Agil
+      run: dotnet build --no-restore ./ut2/ut2.sln
